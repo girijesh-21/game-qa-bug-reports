@@ -21,6 +21,7 @@ Medium
 
 ## Priority
 High
+Reason - It impacts gameplay experience during combat
 
 ---
 
@@ -65,8 +66,3 @@ Occurs frequently (every 5–10 minutes during gameplay)
 - Background processes affecting performance  
 - Power management or thermal throttling issues  
 
----
-
-## Attachments
-- (Optional) Gameplay recording showing frame drops  
-- (Optional) Screenshot of performance metrics
